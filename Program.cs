@@ -22,7 +22,6 @@ Console.WriteLine(@$"
 --------------------------------------------
 ");
 
-//refri escolhido 
 int refri = int.Parse(Console.ReadLine());
 
 Console.WriteLine($"Gostaria de adicionar gelo (S/N) ?");
